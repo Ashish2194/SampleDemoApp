@@ -8,11 +8,11 @@ Features:
 
 2. Each row shows:
 
-  a. The latest stock price. (With color relative to the previous stock value)
+    a. The latest stock price. (With color relative to the previous stock value)
   
-  b. A sparkline showing the changes in stock values (Without considering the time factor)
+    b. A sparkline showing the changes in stock values (Without considering the time factor)
   
-  c. When was the specific stock last updated
+    c. When was the specific stock last updated
   
 3. Market Trend arrow indicating how stock values behaved
 
